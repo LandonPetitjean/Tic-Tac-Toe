@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+       Homepage
+    </title>
+    <link rel="stylesheet"href="fancy.css"type="text/css">
+  <head>
+  <body>
+    <h1>Hello World!</h1>
+    <p>
+      This is a sample website
+    </p>
+    <a href"http://cs.ksu.edu">
+      Click Me!
+    </a>
+    <ol>
+      <li>Item 1</li>
+      <li>Item 2</li>
+      <li>Item 3</li>
+    </ol>
+    <ul>
+      <li>Item 1</li>
+      <li>Item 2</li>
+      <li>Item 3</li>
+    </ul>
+  </body>
+</html>
